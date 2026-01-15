@@ -93,7 +93,8 @@ Because of the op-amp’s **high gain**, the output transition is sharp and reli
 ## 🔁 Circuit Diagram
 
 <img width="1210" height="805" alt="Screenshot 2026-01-14 220053" src="https://github.com/user-attachments/assets/d180448c-9dea-4035-a8f6-8ea826f64038" />
-
+<br><br>
+<img width="934" height="465" alt="image" src="https://github.com/user-attachments/assets/bc764e40-208d-43bd-a1c6-76eff47546f8" />
 
 
 ---
