@@ -34,10 +34,8 @@ An op-amp amplifies the **difference between the two input voltages**.
 Due to its very high gain, even a small voltage difference causes a significant change at the output.
 
 ### Reference Diagram
-> *(Add a standard op-amp symbol / comparator diagram image here)*
+<img width="1036" height="667" alt="image" src="https://github.com/user-attachments/assets/2ed3f26d-3b7c-4db7-ae27-bc53f81ff500" />
 
-
-::contentReference[oaicite:0]{index=0}
 
 
 ### Key Characteristics of an Op-Amp
@@ -94,8 +92,8 @@ Because of the op-amp’s **high gain**, the output transition is sharp and reli
 
 ## 🔁 Circuit Diagram
 
-> *(Add circuit schematic image here)*  
-> Recommended formats: `.png` or `.jpg`
+<img width="1210" height="805" alt="Screenshot 2026-01-14 220053" src="https://github.com/user-attachments/assets/d180448c-9dea-4035-a8f6-8ea826f64038" />
+
 
 
 ---
@@ -112,7 +110,8 @@ Because of the op-amp’s **high gain**, the output transition is sharp and reli
 
 ## 📸 Project Images
 
-> *(Add real images of your breadboard or PCB setup here)*
+![IMG_20260111_093348_426](https://github.com/user-attachments/assets/f9ec8714-0d09-4658-a7cf-9cfdfb7efb33)
+
 
 - Breadboard setup
 - Final assembled circuit
@@ -143,7 +142,7 @@ Because of the op-amp’s **high gain**, the output transition is sharp and reli
 ## 🚀 Future Improvements
 
 - Add hysteresis using a feedback resistor (Schmitt trigger)
-- Replace op-amp with comparator IC (e.g., LM393)
+- Replace op-amp with comparator IC (LM393)
 - Interface with a microcontroller
 - Improve detection range and noise immunity
 
@@ -151,7 +150,8 @@ Because of the op-amp’s **high gain**, the output transition is sharp and reli
 
 ## 👤 Author
 
-**Md. Sadikin Naser Araf**  
+
+**Mohammad Sadikin Naser Araf**  
 GitHub: [https://github.com/Araf773](https://github.com/Araf773)
 
 ---
